@@ -1,4 +1,4 @@
-package com.project.platform.Resource;
+package com.project.platform.resource;
 
 import com.project.platform.model.User;
 import com.project.platform.service.UserService;
